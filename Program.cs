@@ -7,6 +7,7 @@ namespace DiplomovaPrace
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("ahoj");
         }
     }
 }
